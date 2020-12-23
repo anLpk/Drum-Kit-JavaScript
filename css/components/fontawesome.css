@@ -1,0 +1,22 @@
+.fas {
+  color: #f1f1f1;
+  font-size: 1.7em;
+  vertical-align: center;
+}
+
+.fas:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.fa-volume-down {
+  position: relative;
+  left: -12px;
+  top: 8px;
+}
+
+.fa-volume-up {
+  position: relative;
+  left: 12px;
+  top: 8px;
+}
